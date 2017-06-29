@@ -1,0 +1,25 @@
+{
+  "name": "tosu-testing",
+  "version": "1.0.0",
+  "description": "testing for theOpenSourceU.org",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://frankv01@github.com/TheOpenSourceU/tOSU-Testing.git"
+  },
+  "keywords": [
+    "testcafe"
+  ],
+  "author": "Frank Villasenor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheOpenSourceU/tOSU-Testing/issues"
+  },
+  "homepage": "https://github.com/TheOpenSourceU/tOSU-Testing#readme",
+  "dependencies": {
+    "testcafe": "^0.16.2"
+  }
+}
