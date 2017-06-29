@@ -1,0 +1,14 @@
+{
+  "url": "http://theOpenSourceU.org/",
+
+  "settings": {
+    "fixtures": ["tests/basic.js"],
+    "browsers": ["chrome", "safari"]
+  },
+  "runSettings": {
+    "selectorTimeout": 3000,
+    "assertionTimeout": 3000,
+    "speed": 0.5,
+    "quarantineMode": false
+  }
+}
